@@ -1,0 +1,137 @@
+#spring {
+  background-color: rgb(254, 231, 243);
+  border: none;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  padding-top: 135px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+  margin-top: 200px;
+}
+
+#summer {
+  background-color: rgb(225, 250, 254);
+  border: none;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  padding-top: 135px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
+
+#autumn {
+  background-color: rgb(171, 154, 141);
+  border: none;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  padding-top: 135px;
+  border-radius: 5px;
+  margin-bottom: 400px;
+}
+
+#winter {
+  background-color: rgb(109, 148, 253);
+  border: none;
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  padding-top: 135px;
+  margin-bottom: 400px;
+  border-radius: 5px;
+}
+
+#Spring,
+#Summer,
+#Autumn,
+#Winter {
+  text-decoration-line: none;
+  color: black;
+  font-size: 20px;
+}
+
+#title {
+  text-align: center;
+  padding-top: 200px;
+  font-size: 60px;
+  font-weight: 100;
+  text-decoration: none;
+}
+
+#container {
+  text-align: center;
+  background: linear-gradient(
+    rgb(254, 231, 244),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
+
+#SpringPage {
+  background: linear-gradient(
+    rgb(254, 249, 231),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
+
+#SummerPage {
+  background: linear-gradient(
+    rgb(231, 252, 254),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
+#AutumnPage {
+  background: linear-gradient(
+    rgb(179, 151, 140),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
+
+#WinterPage {
+  background: linear-gradient(
+    rgb(96, 109, 228),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
+}
+
+button {
+  background-color: white;
+  border: none;
+}
+
+#spring:hover {
+  box-shadow: 0px 0px 20px lightgray;
+}
+
+#summer:hover {
+  box-shadow: 0px 0px 20px lightgray;
+}
+
+#autumn:hover {
+  box-shadow: 0px 0px 20px lightgray;
+}
+
+#winter:hover {
+  box-shadow: 0px 0px 20px lightgray;
+}
+
+#first {
+  width: 1300px;
+  margin: auto;
+}
+
+#second {
+  width: 1300px;
+  margin: auto;
+}
