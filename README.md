@@ -12,7 +12,7 @@
 
 - ## 퍼뮤니티 페이지
 - 간단한 게시글을 등록 가능하며 다른 사용자들의 게시글을 조회할 수 있다.
-- 
+
 <hr>
 
 <img src="https://github.com/kgaeul/MYPersonalColor_site/assets/143372208/1db58e0e-c9be-4a14-be18-451b8b8955c4">
