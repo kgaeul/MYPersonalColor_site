@@ -1,6 +1,6 @@
 ## [My Persanal Color] Website
 계절별로 나누어진 퍼스널 컬러에 대해 알아보자
-퍼스널 컬러와 그에맞는 컬러 추천 , 악세사리 추천까지!
+퍼스널 컬러와 그에맞는 컬러 추천 , 악세사리 추천까지!!
 
 ### 프로젝트 소개
 <img src="https://github.com/kgaeul/MYPersonalColor_site/assets/143372208/6aaf4bd1-8bd5-4b1f-864e-35f759c82819">
