@@ -23,7 +23,6 @@
 <hr>
 
 ### Stacks
-
 Frontend
  <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -31,7 +30,22 @@ Frontend
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
+<br>
+Backend
+<br>
+<img src="https://img.shields.io/badge/jpa-E34F26?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/jsp&servlet-4398CC?style=for-the-badge&logo=jsp&servlet&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=white">
+<br>
+Database
+<br>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br>
+Server
+<br>
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<br>
 Tool
 <br>
 
